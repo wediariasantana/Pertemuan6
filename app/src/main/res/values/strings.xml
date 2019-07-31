@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Pertemuan6</string>
+    <string-array name="data">
+    <item>Android</item>
+    <item>Java</item>
+    <item>Php</item>
+    <item>Hadoop</item>
+    <item>Sap</item>
+    <item>Python</item>
+    <item>Ajax</item>
+    <item>C++</item>
+    </string-array>
+</resources>
